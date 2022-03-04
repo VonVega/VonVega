@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @VonVega
-- 👀 I’m interested in C#/Python
-- 🌱 I’m currently learning Go/Java
+- 👀 I'm a C#/Java Developer interested in Spring
+- 🌱 I’m currently learning ASP.NET/Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
